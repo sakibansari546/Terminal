@@ -1,0 +1,88 @@
+
+Differnets Terms
+
+	•̀ Command Line : any interface that is used by entring textual commands (gen. Window centric)
+	•̀ Terminal : This is a type of command line (gen. Mac centric)
+	•̀ Console : A command line interface used to work with computer
+
+     •̀ Shell : A rpogram running in Terminal
+
+	•̀ Bash : A popular sheelon Mac OS/Linux
+	•̀ Z-Shll : Another shell deafult
+
+
+Basic Commands
+	ls : list files
+	(show my files)
+
+	
+	pwd : print working directory
+	(where ma i?)
+
+	clear : clear search
+
+
+Navigation
+  inside and outode derictory
+
+	cd : chnaged derictory
+
+	cd Desktop
+
+	cd .. : back button
+
+Paths
+   Absolut & Relative
+
+  	cd Desktop/Delta (relative path)
+	
+	cd/Users/shradhakhapra/Desktop (abolute path)
+	
+	
+	/ : root derictory
+
+	~ : home derictory
+
+
+Making Derictory
+ 	
+	mkdir : mak derictory
+
+
+
+Flags
+  flags are characters that we pass with command to modify their behaviour
+
+	manual Command
+
+	man ls : give info about ls command
+	man mkdir : give info about mksir command 
+
+	
+	with Flags
+
+	ls -/
+	ls -a
+	ls -/a
+
+
+Touch Commadn
+    Used to create file
+
+	touch index.html
+	touch app.js
+	touch abc.text
+
+
+Deleting Files & Folders
+
+	rm : removes files
+	rmdir : remove empty folder
+	rm -rf ; removes any folders
+
+
+
+
+
+
+
